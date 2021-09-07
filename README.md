@@ -11,3 +11,6 @@ Quick fix inbetween stashing other files
 --------------------------------
 
 Doing some changes for stashing.
+
+
+Doing again changes for stashing.
